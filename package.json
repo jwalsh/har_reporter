@@ -1,6 +1,6 @@
 {
   "name": "har_reporter",
-  "description": "The best project ever.",
+  "description": "Report on HAR files via pattern matching",
   "version": "0.1.0",
   "homepage": "https://github.com/jwalsh/har_reporter",
   "author": {
@@ -30,5 +30,5 @@
   "devDependencies": {
     "grunt": "~0.3.16"
   },
-  "keywords": []
+  "keywords": ["har", "http", "performance"]
 }
