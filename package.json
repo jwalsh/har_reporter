@@ -28,7 +28,12 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt": "~0.3.16"
+    "grunt": "~0.3.16",
+    "org-mode-parser": "0.0.7"
   },
-  "keywords": ["har", "http", "performance"]
+  "keywords": [
+    "har",
+    "http",
+    "performance"
+  ]
 }
